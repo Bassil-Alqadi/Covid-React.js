@@ -1,0 +1,17 @@
+.container {
+    width: 50%;
+    font-family: 'Raleway', sans-serif;
+
+  }
+  
+  .header-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .myh6 {
+    font-family: 'El Messiri', sans-serif;
+    margin-top: 10px;
+  }
+

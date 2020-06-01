@@ -1,0 +1,44 @@
+.header-text {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Cabin', sans-serif;
+}
+
+.hashtag {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.info-footer {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.clock {
+    color: #E74C3C;
+}
+
+.calender {
+    color: #F1C40F;
+}
+
+@media screen and (max-width: 991px) {
+    .card-deck {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .card {
+        width: 20rem;
+    }
+    
+}

@@ -1,0 +1,48 @@
+.myContainer {
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 16px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 1200px) {
+    .row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .display-4 {
+        font-size: 35px;
+    }
+}

@@ -1,0 +1,17 @@
+.jumbotron {
+    height: 100vh;
+    border-radius: 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.display-8 {
+    opacity: 0;
+    transition: 1s;
+}
+
+.test:hover {
+    cursor: pointer;
+}
